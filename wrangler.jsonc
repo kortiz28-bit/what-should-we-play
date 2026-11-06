@@ -1,0 +1,7 @@
+{
+  "name": "what-should-we-play",
+  "compatibility_date": "2026-11-06",
+  "assets": {
+    "directory": "./dist"
+  }
+}
